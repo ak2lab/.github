@@ -18,8 +18,6 @@ Webサイト・Webアプリ・業務システムを制作しています。画�
 
 - [制作事例と技術資料](https://ak2lab.github.io/)
 - [公式サイト](https://ak2lab.com/)
-- [ポートフォリオ](https://portfolio.ak2lab.com/)
-- [作品紹介](https://showcase.ak2lab.com/)
 - [X](https://x.com/aidev_ak)
 
 制作事例には自主制作・公開デモを含みます。各事例で制作の目的と公開範囲を示します。
