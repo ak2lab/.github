@@ -9,14 +9,9 @@ Webサイト・Webアプリ・業務システムを制作しています。画�
 - 静的サイト生成と更新の仕組み
 - JavaScriptによるインタラクションと立体表現
 
-## 公開リポジトリ
-
-- [AK²Engine](https://github.com/ak2lab/ak2-engine): Eleventyを土台に、YAMLでページ構成とCanvas背景を組み立てる、自作の静的サイト制作基盤。
-- [ブラウザ版テトリス](https://github.com/ak2lab/tetris): SEGAアーケード版の操作感を意識した、HTML5 Canvasだけで動くブラウザ版テトリス。キー設定とハイスコアに対応。
-
 ## 制作物を見る
 
-- [制作事例と技術資料](https://ak2lab.github.io/)
+- [制作事例の一覧](https://ak2lab.github.io/)
 - [公式サイト](https://ak2lab.com/)
 - [X](https://x.com/aidev_ak)
 
